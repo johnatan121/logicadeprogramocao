@@ -1,0 +1,29 @@
+Resposta  
+
+Resposta 1 
+
+O computador executa apenas um bloco por vez,  cuja condição for verdadeira. Se nenhuma for, ele executa o else (se existir). E sempre segue a ordem: if → elif(s) → else. 
+
+Resposta 2 
+
+For: Quando se sabe quantas vezes quer repetir 
+
+Wihile: Quando não sabe quantas vezes vai repetir 
+
+Resposta 3 
+
+Verifica, cada repetição do loop. Enquanto essa condição for verdadeira, o loop continua rodando. Assim que ela se torna falsa, o loop para imediatamente. 
+
+Resposta 4 
+
+A razão principal é que o for precisa saber de quantas vezes vai repetir, enquanto se o usuário decide quando parar, esse número de repetições é desconhecido. 
+
+Resposta 5 
+
+O range é uma função que gera uma sequência de números, usada geralmente para repetir algo várias vezes com for sendo stop o único parâmetro obrigatório,  
+
+Resposta 6 
+
+Serve para contar quantas vezes algo acontece. Ele aumenta de forma constante, geralmente de 1 em 1. Usado para controlar repetições ou registrar quantidades. 
+
+ 
